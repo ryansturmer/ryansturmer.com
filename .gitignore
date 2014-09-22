@@ -1,0 +1,10 @@
+*.pyc
+*.pyd
+*.pyo
+*.tmp
+*~
+*.pid
+*.tmp
+*.bak
+cache
+output
