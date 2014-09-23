@@ -1,0 +1,12 @@
+[Service]
+ExecStart=/usr/bin/node /home/ryansturmer/ryansturmer.com/src/ryansturmer.com/server/server.js
+Restart=always
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=github-webhook
+User=ryansturmer
+Group=users
+Environment=NODE_ENV=production
+
+[Install]
+WantedBy=multi-user.target

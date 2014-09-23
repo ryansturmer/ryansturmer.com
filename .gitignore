@@ -8,3 +8,4 @@
 *.bak
 cache
 output
+node_modules
