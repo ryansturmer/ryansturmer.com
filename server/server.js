@@ -2,7 +2,7 @@ var githubhook = require('githubhook');
 var github = githubhook({
 	'host':'localhost',
 	'port':3420,
-	'path':'/github/callback'
+	'path':'/'
 });
 
 github.listen();
