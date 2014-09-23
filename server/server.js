@@ -1,15 +1,13 @@
+require('shelljs/global');
 var githubhook = require('githubhook');
 var github = githubhook({
 	'host':'localhost',
 	'port':3420,
 	'path':'/'
 });
-
-github.listen();
-
-github.on('*', function(event, repo, ref, data) {
-	console.log(event);
-	console.log(repo);
-	console.log(ref);
-	console.log(data);
+github.listen()
+github.on('push:ryansturmer.com', function(ref, data) {
+	cd('/home/ryansturmer/ryansturmer.com/src/ryansturmer.com/')
+	exec('git pull origin master')
+	exec('make html-production')
 });

@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 THEME = './theme'
 AUTHOR = u'Ryan Sturmer'
 SITENAME = u'Ryan Sturmer'
-SITEURL = ''
+SITEURL = 'http://ryansturmer.com'
 
 PATH = 'content'
 
