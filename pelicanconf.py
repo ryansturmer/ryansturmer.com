@@ -46,3 +46,5 @@ SOCIAL = (
 )
 
 MENUITEMS = (('Archives', '/archives.html'),)
+
+DISQUS_SITENAME = 'ryansturmer.disqus.com'
