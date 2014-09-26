@@ -48,3 +48,4 @@ SOCIAL = (
 MENUITEMS = (('Archives', '/archives.html'),)
 
 DISQUS_SITENAME = 'ryansturmer'
+GOOGLE_ANALYTICS = 'UA-55169068-1'
