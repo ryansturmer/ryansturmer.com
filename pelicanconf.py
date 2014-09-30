@@ -7,9 +7,6 @@ AUTHOR = u'Ryan Sturmer'
 SITENAME = u'Ryan Sturmer'
 SITEURL = 'http://ryansturmer.com'
 
-PLUGINS = [
-	'pelican_flickrtag'
-]
 
 PATH = 'content'
 
