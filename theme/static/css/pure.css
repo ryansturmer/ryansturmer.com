@@ -1,7 +1,11 @@
+body {
+}
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    font-family: "Roboto","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
 }
 
 a {
@@ -265,6 +269,10 @@ pre {
 .highlight {
     border-radius: 10px;
     box-shadow: 2px 2px 2px #888;
+}
+
+.highlight * {
+    font-family: "Droid Sans Mono", "Lucida Console", "Courier New", monospace;
 }
 
 .highlight pre {
