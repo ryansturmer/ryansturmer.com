@@ -15,7 +15,7 @@ Recreational Climbers (Treeple)
 -------------------------------
 Surprisingly, many recreational climbers are also arborists.  It seemed a little absurd to me at first that someone who is a professional tree worker would want to spend any of their free time at all in the trees.  Tree work is dangerous and demanding, and I kind of figured most arborists would rather kick back with a beer in their spare time than further risk their lives climbing a hundred feet up in the forest canopy.
 
-On the other hand, I'm an engineer, all day, every day, and when I get home at night, *a lot of times thats what I do there as well.*  I'm called to it, much as many arborists are called to the canopy.  One Arborist I spoke to said that the main difference between "tree work" and "tree play" is that when you're climbing recreationally, you can look up at a tree and say, "Nope."  Being an arborist essentially means you're spending your days in the *worst trees* where as when you're climbing recreationally, you're in the trees on your terms, in your own place, on your own time.
+On the other hand, I'm an engineer, all day, every day, and when I get home at night, *a lot of times thats what I do there as well.*  I'm called to it, much as many arborists are called to the canopy.  One Arborist I spoke to said that the main difference between "tree work" and "tree play" is that when you're climbing recreationally, you can look up at a tree and say, "Nope."  Being an arborist essentially means you're spending your days in the *worst trees* whereas when you're climbing recreationally, you're in the trees on your terms, in your own place, on your own time.
 
 [flickr:id=15454848021]
 
@@ -29,6 +29,8 @@ There are about as many ways to climb as there are climbers.  Everyone seems to 
 [flickr:id=15454905041]
 
 Double rope technique, which is how Katie and I climb, essentially involves throwing a rope over a branch, tying it in a sort of noose, and clipping the knot of the noose into your harness.  By tightening the noose (with some effort!) you ascend, until you reach the target branch.  There are techniques once in the tree for traversal from branch to branch that involve using the tail end of your rope to  repeat the process, allowing you to move about the tree with (relative) ease.  DRT is how beginners get started, but many more experienced climbers use it as well because it's safe, approachable, and cost effective.
+
+[flickr:id=15457461092]
 
 Single rope technique is used by more advanced climbers, as it is generally used for higher ascents, and is more gear intensive.  As the name implies, the single rope climber sets one one rope and climbs using a combination of ascent/descent equipment and more finely tuned friction hitches. One of the key advantages of SRT is that it only requires half the rope that DRT requires for an ascent of the same height.  For this reason it is favored by professionals who don't want to lug a lot of rope around, and researchers who climb really tall trees.
 
