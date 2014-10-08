@@ -7,7 +7,7 @@ AUTHOR = u'Ryan Sturmer'
 SITENAME = u'Ryan Sturmer'
 SITEURL = 'http://ryansturmer.com'
 
-
+PLUGINS = ['pelican_flickrtag']
 PATH = 'content'
 
 TIMEZONE = 'US/Eastern'
@@ -51,3 +51,5 @@ MENUITEMS = (('Archives', '/archives.html'),)
 DISQUS_SITENAME = 'ryansturmer'
 GOOGLE_ANALYTICS = 'UA-55169068-1'
 
+FLICKR_API_KEY = '19292690b768d54b8ad527e374ed63eb'
+FLICKR_API_SECRET = '18db0034688ac024'

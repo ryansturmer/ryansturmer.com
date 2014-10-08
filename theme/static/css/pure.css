@@ -315,3 +315,17 @@ pre {
         background-position: 0;
     }
 }
+
+/* pelican_flickrtag specific styles */
+.caption-container {
+    text-align: center;
+}
+
+.caption-container img {
+    box-shadow: 3px 3px 15px #888888;
+}
+
+
+.muted {
+  display: none;
+}
