@@ -32,7 +32,7 @@ Double rope technique, which is how Katie and I climb, essentially involves thro
 
 [flickr:id=15457461092]
 
-Single rope technique is used by more advanced climbers, as it is generally used for higher ascents, and is more gear intensive.  As the name implies, the single rope climber sets one one rope and climbs using a combination of ascent/descent equipment and more finely tuned friction hitches. One of the key advantages of SRT is that it only requires half the rope that DRT requires for an ascent of the same height.  For this reason it is favored by professionals who don't want to lug a lot of rope around, and researchers who climb really tall trees.
+Single rope technique is used by more advanced climbers, as it is generally used for higher ascents, and is more gear intensive.  As the name implies, the single rope climber sets one  rope and climbs using a combination of ascent/descent equipment and more finely tuned friction hitches. One of the key advantages of SRT is that it only requires half the rope that DRT requires for an ascent of the same height.  For this reason it is favored by professionals who don't want to lug a lot of rope around, and researchers who climb really tall trees.
 
 [flickr:id=15457676842]
 
