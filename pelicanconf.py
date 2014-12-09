@@ -10,6 +10,8 @@ SITEURL = 'http://ryansturmer.com'
 PLUGINS = ['pelican_flickrtag']
 PATH = 'content'
 
+STATIC_PATHS = ['images']
+
 TIMEZONE = 'US/Eastern'
 
 DEFAULT_LANG = u'en'
