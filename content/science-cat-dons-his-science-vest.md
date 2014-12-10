@@ -1,13 +1,13 @@
 Title: Science Cat Dons his Science Vest
 Date: 2014-12-09 10:46 PM
 
-Just a quick note about our cat Edison, who is (as of today) a frontiersman in the annals of _cat science._  Edison will be working with the [Cat Tracker Project](http://cats.yourwildlife.org/) through [NCSU](http://www.ncsu.edu/) and the [North Carolina Museum of Natural Sciences](http://naturalsciences.org)  Katie found out about this project many months ago and signed us up to get a tracker for Edison, and we had all but forgotten about it until this past week, when we were emailed about our inclusion in the program.
+Just a quick note about our cat Edison, who is (as of today) a frontiersman in the annals of _cat science._  Edison will be working with the [Cat Tracker Project](http://cats.yourwildlife.org/) through [NCSU](http://www.ncsu.edu/) and the [North Carolina Museum of Natural Sciences.](http://naturalsciences.org)  Katie found out about this project many months ago and signed us up to get a tracker for Edison, and we had all but forgotten about it until this past week, when we were emailed about our inclusion in the program.
 
 [flickr:id=15632445840]
 
 The Science Vest
 ----------------
-Edison's science vest is outfitted with a GPS receiver, with enough battery and non-volatile memory to store 5 days worth of data.  Edison has been harnessed up, but the tracking will not start for 24 hours, to give him time to adjust to the vest.  I didn't expect him to have as much trouble with it as he has.  Although the device is light and not terribly snug, he doesn't appear to agree with the extra weight, and for an hour or so after we fitted him with the tracker, he kind of just sat in one place on the floor.  He would take an experimental step occasionally, but the vest seems very disorienting to him at first.
+Edison's science vest is outfitted with a GPS receiver, with enough battery and non-volatile memory to store 5 days worth of data.  Edison has been harnessed up, but the tracking will not start for 24 hours, to give him time to adjust to the vest.  I didn't expect him to have as much trouble with it as he has.  Although the device is light and not terribly snug, he doesn't appear to agree with the extra weight, and for an hour or so after we fitted him with the tracker, he kind of just sat in one place on the floor.  He would take an experimental step occasionally, but the vest seemed very disorienting to him at first.
 
 [flickr:id=15985118221]
 
