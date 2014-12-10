@@ -1,5 +1,5 @@
 Title: Science Cat Dons his Science Vest
-Date: 2014-12-08 10:46 PM
+Date: 2014-12-09 10:46 PM
 
 Just a quick note about our cat Edison, who is (as of today) a frontiersman in the annals of _cat science._  Edison will be working with the [Cat Tracker Project](http://cats.yourwildlife.org/) through [NCSU](http://www.ncsu.edu/) and the [North Carolina Museum of Natural Sciences](http://naturalsciences.org)  Katie found out about this project many months ago and signed us up to get a tracker for Edison, and we had all but forgotten about it until this past week, when we were emailed about our inclusion in the program.
 
