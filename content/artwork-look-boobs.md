@@ -1,13 +1,13 @@
 Title: Artwork: "Look boobs" (King's Quest II) 
 Date: 2014-12-30 1:44 PM
 
-My good and long-time friend Aaron Brown, who never fails to be anything but an interesting character gave me a pair of paintings one night that were given to him by a friend.  They aren't bad paintings, but are fairly unremarkable as far as paintings go.   These are the sorts of inoffensive works that you can pick up at the thrift shop if you are vigilant, and although they are well done, don't really bring a lot of excitement to a room, unless your idea of excitement is looking at a picture of a beach.
+My good and long-time friend Aaron Brown, who never fails to be anything but an interesting character gave me a pair of paintings one night that were given to him by a friend.  They aren't bad paintings, but are fairly unremarkable as far as paintings go.   They are the sort of inoffensive works that you can pick up at the thrift shop if you are vigilant, and although they are well done, don't really bring a lot of excitement to a room, unless your idea of excitement is looking at a picture of a beach.
 
 I have made a hobby in the last few years of taking such paintings and attempting to breathe new life into them by painting in characters from my favorite video games.  I have done about half a dozen such works by now, and when Aaron gave me the paintings, he said this:
 
 _"Paint them both, and give me back the one you like less"_
 
-This is the core of Aarons subtle brilliance.  We had consumed a few beers, and I said "Sure!  Thanks, man!" and loaded the paintings into my car.  It wasn't until the morning that I realized that he had given away essentially nothing of value to him, in exchange for a customized piece of artwork from me.  Brilliant.
+This is the core of Aarons subtle brilliance.  We had consumed a few beers, and I said "Sure!  Thanks, man!" and loaded the paintings into my car.  It wasn't until the morning that I realized that he had given away essentially nothing of value to himself, in exchange for a customized piece of artwork from me.  Brilliant.
 
 The Painting
 ------------
