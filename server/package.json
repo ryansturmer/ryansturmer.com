@@ -1,9 +1,0 @@
-{
-	"name" : "ryansturmer.com-github-webhook",
-	"version" : "0.0.1",
-	"description" : "Github webhook handler for ryansturmer.com",
-	"repository" : "https://github.com/ryansturmer/ryansturmer.com",
-	"dependencies" : {
-		"githubhook" : ">=1.1.3"
-	}
-}
