@@ -1,0 +1,20 @@
+.social-button {
+	width: 2em;
+	height: 2em;
+	border: 0px;
+	margin-right: 0.5em;
+}
+
+
+body {
+	background-color: #bebebe;
+}
+
+a {
+	color: #0000ee;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #5a188b;
+}
